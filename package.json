@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "async": "^3.2.4",
+    "axios": "^0.27.2",
+    "cross-fetch": "^3.1.5",
+    "esm": "^3.2.25",
+    "express": "^4.18.1",
+    "form-data": "^4.0.0",
+    "ky": "^0.31.1",
+    "ky-universal": "^0.10.1",
+    "md5": "^2.3.0",
+    "next-transpile-modules": "^9.0.0",
+    "node-fetch": "^3.2.10",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.11",
+    "superagent": "^8.0.0",
+    "xhr2": "^0.2.1",
+    "xml": "^1.0.1",
+    "xmlhttp": "^0.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "servertest",
+  "description": "---",
+  "version": "1.0.0",
+  "main": "axiosget.js",
+  "repository": {
+    "type": "git",
+    "url": "http://bguner@zistvy90:7990/scm/~ssefer/server-localization-test-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

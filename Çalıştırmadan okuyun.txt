@@ -1,0 +1,7 @@
+1) Axios örnekleri için local server yaratımına gidildi. Lütfen 'npm install json-server' komutu ile serveri yükleyin
+2)'json-server --watch users.json' komutu ile serveri çalıştırabilirsiniz.
+3)Json server ile çalışan axios örnekleri 'main' cümlesini içeren js dosyaları içerisinde yer alıyor.
+4)'npm install cross-fetch' komutu ile fetch librarysini yükleyiniz
+5)'npm install axios' komutu ile axios librarysini yükleyiniz
+6)'npm install superagent' komutu ile superagent librarysini yükleyiniz.
+Okuduğunuz için teşekkürler.
